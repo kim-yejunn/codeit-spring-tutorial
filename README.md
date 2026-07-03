@@ -6,3 +6,4 @@ local-v3
 local-v4-main
 local-v5-for-conflict
 remote-v5
+remote-v6
