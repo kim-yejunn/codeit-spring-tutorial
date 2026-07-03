@@ -8,3 +8,4 @@ local-v5-for-conflict
 remote-v5
 remote-v6
 remote-v7-fast-forward
+remote-v8-for-rebase
