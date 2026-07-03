@@ -9,3 +9,4 @@ remote-v5
 remote-v6
 remote-v7-fast-forward
 remote-v8-for-rebase
+local-v7-for-rebase
